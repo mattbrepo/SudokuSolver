@@ -9,7 +9,6 @@ Sudoku solver in Haskell
 I read [Real World Haskell](https://en.wikipedia.org/wiki/Real_World_Haskell) and started working with Haskell. I decide to work on a "Sudoku solver" because I needed a real problem to apply _functional programming_ to.
 
 ## Example
-
 ghci SudokuSolver.hs
 
 ```
