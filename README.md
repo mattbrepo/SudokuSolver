@@ -1,5 +1,5 @@
 # SudokuSolver
-Sudoku solver in Haskell
+Sudoku solver in Haskell.
 
 **Language: Haskell**
 
